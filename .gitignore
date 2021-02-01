@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /app/doc
-/app/font
+/app/fonts
 /app/images
 # testing
 /coverage
